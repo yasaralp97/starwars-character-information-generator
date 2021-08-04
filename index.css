@@ -1,0 +1,39 @@
+body {
+    padding: 50px;
+    background-image: linear-gradient(to right, rgba(228, 222, 222, 0.527), rgba(210, 214, 197, 0.541)),                     
+                    url("background.jpeg");
+    height: 100vh;
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+
+h1{
+    font-size: 60px;
+    margin-bottom: 100px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+
+}
+
+
+.container {
+    margin-top: 50px;
+}
+
+.information {
+    margin: 0px 15px 0px 30px;
+    background-color: rgba(223, 215, 166, 0.685);
+    font-size: 20px;
+}
+
+.characterImage {
+    margin: 0px 15px 0px 15px;
+    background-color: rgba(223, 215, 166, 0.685);
+}
+
+button {
+    margin: 0px 30px 0px 15px;
+}
+
